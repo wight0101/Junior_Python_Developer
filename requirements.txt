@@ -1,0 +1,10 @@
+aiogram
+asyncio
+pandas
+openpyxl
+selenium
+SQLAlchemy
+webdriver_manager
+schedule
+pytz
+sqlite3
